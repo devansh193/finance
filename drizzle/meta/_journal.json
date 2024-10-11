@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716400002662,
+      "tag": "0000_glorious_millenium_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716400720225,
+      "tag": "0001_steady_spyke",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1720683767548,
+      "tag": "0002_flowery_barracuda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1720767602655,
+      "tag": "0003_tense_white_queen",
+      "breakpoints": true
+    }
+  ]
+}
